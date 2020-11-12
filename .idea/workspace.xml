@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c297d7eb-c34a-495f-a796-de4ddbb803ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wembikon/javamaven/Playground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wembikon/javamaven/PlaygroundTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +34,45 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RunManager" selected="JUnit.PlaygroundTest.getData">
+    <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wembikon.javamaven.Playground" />
+      <module name="Java Maven Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wembikon.javamaven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaygroundTest.getData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Maven Template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wembikon.javamaven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wembikon.javamaven" />
+      <option name="MAIN_CLASS_NAME" value="com.wembikon.javamaven.PlaygroundTest" />
+      <option name="METHOD_NAME" value="getData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlaygroundTest.getData" />
+        <item itemvalue="Application.Playground" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,9 +92,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1558" height="211" key="GridCell.Tab.0.bottom" timestamp="1605205822631">
+      <screen x="0" y="23" width="1600" height="819" />
+    </state>
+    <state width="1558" height="211" key="GridCell.Tab.0.bottom/0.23.1600.819@0.23.1600.819" timestamp="1605205822631" />
+    <state width="1558" height="211" key="GridCell.Tab.0.center" timestamp="1605205822630">
+      <screen x="0" y="23" width="1600" height="819" />
+    </state>
+    <state width="1558" height="211" key="GridCell.Tab.0.center/0.23.1600.819@0.23.1600.819" timestamp="1605205822630" />
+    <state width="1558" height="211" key="GridCell.Tab.0.left" timestamp="1605205822629">
+      <screen x="0" y="23" width="1600" height="819" />
+    </state>
+    <state width="1558" height="211" key="GridCell.Tab.0.left/0.23.1600.819@0.23.1600.819" timestamp="1605205822629" />
+    <state width="1558" height="211" key="GridCell.Tab.0.right" timestamp="1605205822631">
+      <screen x="0" y="23" width="1600" height="819" />
+    </state>
+    <state width="1558" height="211" key="GridCell.Tab.0.right/0.23.1600.819@0.23.1600.819" timestamp="1605205822631" />
     <state x="338" y="96" key="Maven.ArtifactSearchDialog" timestamp="1605205110746">
       <screen x="0" y="23" width="1600" height="819" />
     </state>
     <state x="338" y="96" key="Maven.ArtifactSearchDialog/0.23.1600.819@0.23.1600.819" timestamp="1605205110746" />
+    <state x="579" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605205751181">
+      <screen x="0" y="23" width="1600" height="819" />
+    </state>
+    <state x="579" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1600.819@0.23.1600.819" timestamp="1605205751181" />
   </component>
 </project>
