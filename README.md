@@ -29,3 +29,13 @@ Java Maven template using IntelliJ
 </properties>
 ```
 - Import changes if asked.
+    
+# add `Playground` java class
+- right click on src/main/java folder. Select New > Java Class
+- type `com.wembikon.javamaven.Playground` to automatically create the package and file for the corresponding class.
+
+# add `Playground` unit test java class
+- right click on the `Playground` class name. Select Show Context Actions > Create Test.
+- just use the default class name which is `PlaygroundTest` and destination package.
+- select the methods to test e.g. getData
+- finally select the Testing library version: JUnit4. Press OK.
